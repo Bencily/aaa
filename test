@@ -1,0 +1,4 @@
+body {
+background: url('https://www.wildlifetrusts.org/sites/default/files/styles/node_hero_default/public/2018-01/wood%20Forget-me-not%2C_Myotis%20_sylvatica_1_cpt_Neil_Wyatt.jpg?h=e903ea8f&itok=2iZ2pUtD') no-repeat center center fixed;
+background-size: cover;
+}
